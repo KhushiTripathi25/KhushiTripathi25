@@ -53,23 +53,7 @@ transforming raw datasets into stories businesses can act on.
 🏢 Business-Centric Insights
 </P>
 
----
 
-<H2>🌟 Leadership & Design</H2>
-
-<B>🎨 Design Team Lead — E-Commerce Club</B>
-<P>
-✨ Increased engagement by <B>40%</B> through cohesive branding <br>
-🤝 Mentored juniors in design thinking & collaboration
-</P>
-
-<B>🚀 Design Team Lead — Cisco Community VITB</B>
-<P>
-⏱️ Led visual campaigns under strict deadlines <br>
-📈 Improved visual impact by <B>30%</B>
-</P>
-
----
 
 <H2>🏆 Certifications & Recognition</H2>
 
