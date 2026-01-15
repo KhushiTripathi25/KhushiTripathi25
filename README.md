@@ -4,18 +4,10 @@
 
 <B>Data Analyst • Computer Science Undergraduate • Insight Builder</B>
 
-<br><br>
 
 🌱 Turning <b>data</b> into <b>decisions</b> | Blending <b>logic</b> with <b>design</b>
 
 </div>
-
----
-
-<P>
-Welcome to my digital workspace — where numbers find meaning, systems learn, and design meets data.
-This GitHub is not just a collection of repositories; it’s a quiet narrative of consistency, curiosity, and craftsmanship.
-</P>
 
 ---
 
