@@ -72,7 +72,7 @@ transforming raw datasets into stories businesses can act on.
 <P>
 💼 <a href="https://www.linkedin.com/in/khushi-tripathi-ba174b250/">LinkedIn</a> <br>
 💻 <a href="https://github.com/KhushiTripathi25">GitHub</a> <br>
-📧 khushitripathi2022@vitbhopal.ac.in
+📧 tripathikhushi025@gmail.com
 </P>
 
 ---
