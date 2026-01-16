@@ -34,15 +34,12 @@ transforming raw datasets into stories businesses can act on.
 
 🔹 <B>Data & BI</B>  
 <P>
-🗄️ SQL | MySQL | MongoDB <br>
-📊 Power BI | Tableau | Excel <br>
-🧹 Data Cleaning • 🔍 EDA • 📈 Visualization • 📉 Analytics
+🗄️ SQL | MySQL | MongoDB | 📊 Power BI | Tableau | Excel | 🧹 Data Cleaning • 🔍 EDA • 📈 Visualization • 📉 Analytics
 </P>
 
 🔹 <B>Web & Systems</B>  
 <P>
-⚛️ React.js | 🌐 Node.js | Next.js | HTML <br>
-🧩 Backend Integration & Interactive Dashboards
+⚛️ React.js | 🌐 Node.js | Next.js | HTML
 </P>
 
 🔹 <B>Core Domains</B>  
