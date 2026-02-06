@@ -73,6 +73,8 @@ transforming raw datasets into stories businesses can act on.
 </P>
 
 ---
+![Visitors](https://komarev.com/ghpvc/?username=KhushiTripathi25&color=brightgreen&style=flat-square)
+
 
 <P align="center">
 <I>
