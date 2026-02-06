@@ -14,18 +14,10 @@
 <H2>🌱 Who I Am</H2>
 
 <P>
-🎓 <B>B.Tech CSE (E-Commerce Technology)</B> @ VIT Bhopal University <br>
 📊 <B>Data Analyst in the making</B>, grounded in statistics and driven by insights <br>
 🧠 Exploring <B>AI, Machine Learning & Business Intelligence</B> <br>
 🎨 Designer at heart — because good visuals amplify good data <br>
 </P>
-
-<P>
-I work at the intersection of <b>data, technology, and decision-making</b>,
-transforming raw datasets into stories businesses can act on.
-</P>
-
----
 
 <H2>🧰 My Toolbox</H2>
 
@@ -50,18 +42,6 @@ transforming raw datasets into stories businesses can act on.
 🏢 Business-Centric Insights
 </P>
 
-
-
-<H2>🏆 Certifications & Recognition</H2>
-
-<P>
-🏅 Tata — GenAI Powered Data Analytics Simulation <br>
-🏅 Accenture — Data Analytics & Visualization <br>
-🥇 National Semi-Finalist — Flipkart Grid 7.0 <br>
-📜 Coursera — Digital Marketing & E-Commerce <br>
-📜 NPTEL — E-Supply Chain Management
-</P>
-
 ---
 
 <H2>🤝 Let’s Connect</H2>
@@ -76,9 +56,3 @@ transforming raw datasets into stories businesses can act on.
 ![Visitors](https://komarev.com/ghpvc/?username=KhushiTripathi25&color=brightgreen&style=flat-square)
 
 
-<P align="center">
-<I>
-“Data should do more than inform — it should guide, persuade, and endure.” <br>
-This GitHub is my ongoing journey: <b>versioned, intentional, and always improving.</b>
-</I>
-</P>
